@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".caloriescalculator"
+    android:layout_gravity="center"
+    android:gravity="center"
+    android:background="@drawable/bg2">
+
+    <EditText
+        android:id="@+id/et_age"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:fontFamily="monospace"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:hint="Age" />
+
+    <EditText
+        android:id="@+id/et_weight"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:fontFamily="monospace"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:hint="Weight (kg)"
+        android:textColorHint="@color/white"/>
+
+    <EditText
+        android:id="@+id/et_height"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:hint="Height (cm)"
+        android:fontFamily="monospace"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:textColorHint="@color/white"/>
+
+    <Spinner
+        android:id="@+id/spinner_activity_level"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:entries="@array/activity_levels"
+
+        android:textColor="@color/white"
+        android:fontFamily="monospace"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:textColorHint="@color/white"/>
+
+    <Button
+        android:id="@+id/btn_calculate"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:fontFamily="monospace"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:text="Calculate" />
+
+    <TextView
+        android:id="@+id/tv_result"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"
+        android:text="Calories needed: "
+        android:textColor="@color/white"
+        android:textColorHint="@color/white"
+        android:paddingTop="16dp"
+        android:textSize="18sp"
+        android:fontFamily="monospace"
+        android:textStyle="bold"
+        android:textAllCaps="true"/>
+
+</LinearLayout>

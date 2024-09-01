@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    tools:context=".waterintake"
+    android:gravity="center"
+    android:background="@drawable/waterintake"
+    >
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:text="Enter Your Weight(kg)"
+        android:textSize="30dp"
+       android:textColor="@color/black"
+        android:gravity="center"
+        android:fontFamily="sans-serif"
+        android:textStyle="bold"
+        />
+
+    <EditText
+        android:id="@+id/weightInput"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:fontFamily="monospace"
+        android:textStyle="bold"
+        android:inputType="numberDecimal"
+        android:textColor="@color/black"/>
+
+    <Spinner
+        android:id="@+id/activityLevelSpinner"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+
+        android:entries="@array/activity_levels" />
+
+    <Button
+        android:id="@+id/calculateButton"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="Calculate Water Intake"
+        android:fontFamily="sans-serif"
+        android:textStyle="bold"
+        android:background="@color/black"
+        android:textColor="@color/black"
+        android:backgroundTint="@color/black"/>
+
+    <TextView
+        android:id="@+id/resultTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingTop="16dp"
+        android:textSize="18sp"
+        android:fontFamily="monospace"
+        android:textColor="@color/black"
+        android:textStyle="bold"/>
+
+</LinearLayout>

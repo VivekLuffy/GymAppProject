@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.GymApp"
+        tools:targetApi="31">
+        <activity android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity
+            android:name=".caloriescalculator"
+            android:exported="false" />
+        <activity
+            android:name=".waterintake"
+            android:exported="false" />
+        <activity
+            android:name=".workoutplan"
+            android:exported="false" />
+        <activity
+            android:name=".shoulder11"
+            android:exported="false" />
+        <activity
+            android:name=".triscep11"
+            android:exported="false" />
+        <activity
+            android:name=".biscep11"
+            android:exported="false" />
+        <activity
+            android:name=".legs11"
+            android:exported="false" />
+        <activity
+            android:name=".back11"
+            android:exported="false" />
+        <activity
+            android:name=".chestactivity1"
+            android:exported="false" />
+
+        <activity
+            android:name=".chest11"
+            android:exported="false" />
+        <activity
+            android:name=".ShoulderWork"
+            android:exported="false" />
+        <activity
+            android:name=".TriscepWork"
+            android:exported="false" />
+        <activity
+            android:name=".BiscepsWork"
+            android:exported="false" />
+        <activity
+            android:name=".LegsWork"
+            android:exported="false" />
+        <activity
+            android:name=".BackWork"
+            android:exported="false" />
+        <activity
+            android:name=".ChestWork"
+            android:exported="false" />
+
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true"
+            tools:ignore="WrongManifestParent">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

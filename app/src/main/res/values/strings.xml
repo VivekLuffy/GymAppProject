@@ -1,0 +1,414 @@
+<resources>
+    <string name="app_name">GymApp</string>
+
+    <string name="chestexcercise1">Step 1:-Starting Position:\n
+        Sit on the edge of the flat bench with a dumbbell in each hand, resting on your thighs.\nCarefully lie back on the bench, bringing the dumbbells to shoulder level. Your feet should be flat on the floor, and your back should be in a neutral position with a slight arch.\n\n
+                             Step 2:- Grip and Position:\nHold the dumbbells with a pronated grip (palms facing your feet).\n
+Position the dumbbells at the sides of your chest with your elbows bent and positioned slightly below the level of the bench. \n\n
+                             Step 3:-Set Up:\nEnsure your head, upper back, and glutes are in contact with the bench.\n
+Keep your feet planted firmly on the floor to provide stability.  \n\n
+                             Step 4:-Pressing Movement:\nPress the dumbbells upward by extending your elbows. As you press, the dumbbells should move in a slight arc, coming closer together at the top of the movement but not touching.\n
+Fully extend your arms at the top of the press, but do not lock your elbows. \n\n
+    Step 5:-Top Position:\n
+        At the top of the movement, squeeze your chest muscles and hold for a brief moment.\n
+Your arms should be straight, and the dumbbells should be over your chest. \n\n
+        Step 6:-Lowering the Dumbbells:\n
+        Slowly lower the dumbbells back to the starting position in a controlled manner, keeping your elbows at a slight angle to avoid putting undue stress on your shoulder joints.\n
+Your elbows should come down to slightly below bench level, but avoid going too low to prevent shoulder strain. \n\n
+        Step 7:-Breathing:\n
+        Inhale as you lower the dumbbells.\n
+Exhale as you press the dumbbells up.  \n\n
+        Step 8:-Repetition:\n
+        Perform the desired number of repetitions, maintaining good form throughout.\n\n
+    </string>
+    <string name="chestexcercise2">Step 1:- Setting Up\n
+    Adjust the Bench: Set an adjustable bench to an incline of about 30 to 45 degrees. Ensure it is stable and securely locked in position.\n
+    Selecting Weights: Choose a pair of dumbbells appropriate for your strength level. Start with lighter weights if you’re unfamiliar with the exercise to focus on form.\n
+    Step 2:- Positioning\n
+    Sit and Hold: Sit on the bench with the dumbbells resting on your thighs, close to your knees.\n
+    Lean Back: Lie back on the incline bench, bringing the dumbbells up to shoulder height with your palms facing forward. Your feet should be flat on the floor for stability.\n
+    Step 3:- Starting Position\n
+    Shoulder Placement: Ensure your shoulders are retracted (pulled back) and your upper back is firmly pressed into the bench. This will protect your shoulders and engage your chest muscles effectively.\n
+    Arm Position: Your elbows should be at a 45-degree angle to your torso, not flared out too wide or tucked in too close. Your wrists should be in a neutral position (not bent).\n
+    Step 4:- Executing the Lift\n
+    Press Up: Push the dumbbells upward until your arms are fully extended. As you press, think about squeezing your chest muscles together. Avoid locking out your elbows at the top.\n
+    Control the Motion: Lower the dumbbells slowly and with control back to the starting position, ensuring your elbows drop to the same 45-degree angle.\n
+    Step 5:- Repetition and Breathing\n
+    Repetition: Perform the desired number of repetitions, maintaining control throughout the movement. Common rep ranges are 8-12 for hypertrophy (muscle growth) or 4-6 for strength.\n
+    Breathing: Inhale as you lower the dumbbells, and exhale as you press them up. Proper breathing helps maintain stability and power.\n\n </string>
+    <string name="chestexcercise3">
+Step 1:-Setting Up\n
+Adjust the bench to a decline position, usually around 15-30 degrees.\n
+Secure your feet under the foot pads or supports to prevent slipping.\n
+Step 2:-Positioning
+Sit on the bench with the dumbbells resting on your thighs.\n
+Lie back carefully, bringing the dumbbells up to your chest as you recline.\n
+Step 3:-Starting Position\n
+
+Ensure your shoulders are retracted and your upper back is firmly pressed into the bench.\n
+Your elbows should be at a 45-degree angle to your torso, with palms facing forward.\n
+Step 4:-Executing the Lift\n
+
+Press the dumbbells upward until your arms are fully extended.\n
+Lower the dumbbells slowly and with control back to the starting position, maintaining the 45-degree angle.\n
+Step 5:-Repetition and Breathing\n
+
+Perform the desired number of repetitions, keeping the motion controlled.\n
+Inhale as you lower the dumbbells, and exhale as you press them up. \n\n
+
+</string>
+
+    <string name="chestexcercise4">
+Step 1:-Sit on the machine with your back flat on the pad.\n
+Step 2:-Take hold of the handles. Tip: Your upper arms should be positioned parallel to the floor; adjust the machine accordingly. This will be your starting position.\n
+Step 3:-Push the handles together slowly as you squeeze your chest in the middle. Breathe out during this part of the motion and hold the contraction for a second.\n
+Step 4:-Return back to the starting position slowly as you inhale until your chest muscles are fully stretched.\n
+Step 5:-Repeat for the recommended amount of repetitions.\n\n
+
+</string>
+
+
+    <string name="chestexcercise6">
+Step 1:-Connect the handle attachments and set the cable pulleys to approximately knee height. Stand in the centre between the cables, turn to face away from the cable pulleys and grasp one handle in each hand in an underhand grip (palms facing upwards). Take two steps forward and plant your feet in a split stance with your left foot forward and right foot back (or the other way around if this is more comfortable), ensuring that your feet are slightly further than shoulder-width apart. Extend your arms directly in front of you so that your hands are touching at chest height. This is your starting position.\n
+
+Step 2:-
+Inhale. While maintaining a slight bend in your elbows, open your arms outwards and backwards until your elbows are slightly behind you on either side of your body.\n
+
+Step 3:-
+Exhale. Using the muscles in your chest, pull the handles forward to return to the starting position. Repeat for the specified number of repetitions.\n\n
+</string>
+    <string name="chestexcercise7">
+Step 1:-Set-Up\n
+
+When doing the high standing cable crossover place the handles high enough that when the handles drop they are roughly just above shoulder height. This can vary depending on your height.\n
+Attach stirrup handles to both high pulleys.\n
+Step 2:-Starting Position:\n
+Grab one handle with the inside of your one hand and take a step back to allow you to reach the second cable safely with your other hand.\n
+Take the tension of the weight\n
+Keeping your shoulders back and a straight back take a step forward into the resistance with one leg staggered in front of the other (normally dominant leg behind for support) with the front knee bent.\n
+Pull the weight forward with a slight bend in your elbows with your hands open (more advanced) or closed.\n
+Step 3:-Execution:\n
+Pull your hands down in front of your body in an arc shape until your hands meet around a foot in front of your midriff.\n
+Squeeze your chest at the end of the movement and slowly realise back to the starting position, before repeating the movement. Keep your elbows higher than your hands throughout the movement.\n
+Breathe in on the relaxation phase and breathe out when contracting, keeping your head up at all times.\n\n
+</string>
+
+
+    <string name="chestexcercise8">
+Step 1:-Setup\n
+Stand upright with feet shoulder-width apart.\n
+Hold two lightweight plates (5-10 lbs each) together between your palms, at chest level.\n
+Step 2:-Starting Position\n
+Keep your elbows bent and close to your sides.\n
+Press the plates together firmly to engage your chest muscles.\n
+Step 3:-Pressing\n
+Extend your arms straight out in front of you, pressing the plates together as hard as possible.\n
+Keep the motion slow and controlled.\n
+Step 4:-Squeeze\n
+When your arms are fully extended, squeeze your chest muscles for a moment.\n
+Ensure your shoulders stay down and back.\n
+Step 5:-Return
+Slowly bring the plates back to your chest, maintaining the tension.\n
+Repeat for the desired number of repetitions, keeping the plates pressed together throughout the exercise.\n\n
+</string>
+
+    <string name="chestexcercise5">
+Step 1:-Setup\n
+Start in a plank position with your hands placed slightly wider than shoulder-width apart.\n
+Keep your body in a straight line from head to heels, engaging your core.\n
+Step 2:-Lowering\n
+Bend your elbows to lower your chest toward the ground.\n
+Keep your elbows at a 45-degree angle to your body.\n
+Step 3:-Bottom Position\n
+
+Lower yourself until your chest is just above the ground.\n
+Ensure your body remains in a straight line without sagging or arching your back.\n
+Step 4:-Pushing Up\n
+
+Push through your palms to straighten your arms, lifting your body back to the starting position.\n
+Exhale as you push up, keeping your core engaged.\n
+Step 5:-Repetition\n
+
+Repeat for the desired number of repetitions, maintaining proper form throughout each push-up.\n
+Inhale as you lower your body and exhale as you push up.\n\n
+
+</string>
+    <string name="backexcercise1">Step 1:-Grab The Bar.\n Grip it about shoulder-width apart. Full grip with your palms down.\n\n
+Step 2:-Hang.\n Raise your feet off the floor by bending your knees. Hang with straight arms.\n\n
+Step 3:-Pull.\n Pull yourself up by pulling your elbows down to the floor. Keep your elbows close.\n\n
+Step 4:-Pass The bar.\n Pull yourself all the way up until your chin passes the bar. Don’t do half reps.\n\n
+Step 5:-Repeat.\n Lower yourself all the way down until your arms are straight. Breathe. Pullup again.\n\n</string>
+    <string name="backexcercise2">Step 1:-\nStart by sitting at a lat pull machine, facing the bar. Adjust the knee pad so your knees are bent at 90 degrees and firmly under the pad and your feet are flat on the floor.\n\n
+Step 2:-\nReach up and grasp the bar a little wider than shoulder width. Extend your arms as much as you can without shrugging your shoulders or lifting off the seat.\n\n
+Step 3:-\nPull the bar down toward your upper chest, aiming for just below your collarbone. Think of pulling your elbows and shoulder blades down and back as you bring the bar down. Keep your body tall and in a slight backward lean, just past vertical at 70–80 degrees.\n\n
+Step 4:-\nHold the bar at your mid to upper chest for 1–2 seconds while squeezing your shoulder blades back and down.\n\n
+Step 5:-\nSlowly return to the starting position. Remember not to shrug your shoulders at the top of the movement.\n\n
+Tips:\nComplete 2–3 sets of 8–10 reps.\n\n
+
+
+    </string>
+    <string name="backexcercise3">Step 1:-Starting Position:\n Holding a dumbbell in your right hand, bend over to place your left knee and left hand on a bench to support your body weight. Your hand should be placed directly under your shoulder and your knees should be positioned directly under your hips. Gently contract your abdominal / core muscles ("bracing") to stiffen your torso and stabilize your spine. Your back should be flat and head aligned with your spine. Depress and retract your scapulae (pull your shoulders down and back) without arching your low back and maintain this shoulder position throughout the exercise. Extend your right arm (holding the dumbbell) towards the floor without allowing your torso to rotate or shoulder to move towards the floor.\n\n
+Step 2:-Upward Movement:\n Exhale and slowly pull the dumbbell upwards, bending your elbow and pulling your upper arm backwards. Keep your arm close to the side of your body and continue pulling the dumbbell upwards until you are unable to lift any further without rotating your torso. Avoid rotating your body or changing the position of your spine throughout the lift.\n\n
+Step 3:-Downward Movement:\n Inhale and gently lower the dumbbell to your starting position while maintaining a flat back and retracted (pulled back) shoulder position.\n\n
+
+
+
+    </string>
+    <string name="backexcercise4">Step 1:-\nGrab a barbell with an overhand grip, hands slightly wider than shoulder width apart.\n\n
+Step 2:-\nWith your legs slightly bent, lock your core, keep your back straight and send your hips behind your heels so that your torso is almost perpendicular to the floor.\n\n
+Step 3:-\nRow the weight upwards in an arc shape towards your hips.\n\n
+Step 4:-\nPause and squeeze the shoulder blades together for a beat whilst keeping the shoulders away from the ears.\n\n
+Step 5:-\nSlowly reverse the rep back to the beginning position.\n\n
+
+
+
+    </string>
+
+    <string name="backexcercise5">
+Step 1:-\nConnect the close-grip attachment to the seated row. Place both hands on the close-grip attachment with a neutral grip (palms facing inwards). Sit on the bench and place your feet on the foot plates. Hold the attachment directly in front of your belly button with arms extended. Pull your shoulder blades down and back slightly to push your chest out. This is your starting position.\n\n
+Step 2:-\nInhale. Exhale. While maintaining a proud chest, bend your elbows to pull the attachment in towards your belly button, ensuring that your elbows remain in close contact with the sides of your body. You should feel a small squeeze between your shoulder blades.\n\n
+Step 3:-\nInhale. Extend your elbows to return to the starting position. Repeat for the specified number of repetitions.\n\n
+
+
+    </string>
+    <string name="backexcercise6">
+        Step 1:-\nLie on your stomach in a comfortable and spacious area with your hands behind your head.\n\n
+Step 2:-\nExhale and raise your chest off the floor by squeezing your gluteus muscles and contracting your lower back.\n\n
+Step 3:-\nPause for a second at the top while continuing to squeeze the lower back muscles.\n\n
+Step 4:-\nInhale and slowly lower your chest back to the floor by releasing the contraction of your glutes and lower back.\n\n
+Step 5:-\nAim for two or three sets of 8 to 15 repetitions (reps).\n\n
+    </string>
+
+    <string name="legsexcercise1">
+        Step :-1\n Set up a barbell to the appropriate height in the squat rack according to your height. The barbell should be slightly lower than your shoulders. Make sure you have enough space to take a couple of steps backward after unracking the barbell.\n\n
+Step :-2\n While facing the barbell, step underneath the barbell and place your hands on both sides of it. The barbell should rest on the muscles of your upper back.\n\n
+Step :-3\n Unrack the barbell, and step backward until you’re a few inches away from the barbell rack.\n\n
+Step :-4\n Keep your posture tall, with your feet slightly wider than hip-width apart and a slight bend in your knees. Your shoulders should be directly over your hips with a neutral head and neck position. Your chin should remain tucked throughout the movement as if you were holding an egg under your chin.\n\n
+Step :-5\n Evenly distribute your weight on your feet from toe to heel. Grip the floor with your feet to create a stable foot position.\n\n
+Step :-6\n Rotate your shoulders outward to engage your lats and upper back.\n\n
+Step :-7\n Pre-tension your shoulders and hips, and engage your core. Your ribs should be down and your pelvis should be slightly tucked.\n\n
+Step :-8\n While maintaining your alignment, begin the downward movement by bending your hips, knees, and ankles.\n\n
+Step :-9\n Lower until your legs are parallel or slightly below parallel to the floor. Keep your weight evenly distributed on your feet as you lower.\n\n
+Step :-10\n Pause for a second at the bottom position.\n\n
+Step :-11\n To begin the upward movement, push your feet into the ground to initiate standing up. Emphasize pushing through your midfoot and heel while keeping your toes engaged.\n\n
+Step :-12\n As you begin to stand up, keep your chest high, squeeze your glutes, allow your knees to straighten and your hips to travel forward.\n\n
+Step :-13\n As you finish the movement, squeeze your glutes and quadriceps while maintaining a neutral spine.\n\n
+Step :-14\n At the end of each repetition, your shoulders should finish directly over the hips.\n\n
+Step :-15\n Imagine that your pelvis is a bucket filled with water, and you’re attempting not to spill any water out of the front, back, or sides of the bucket.\n\n
+    </string>
+
+    <string name="legsexcercise2">Step 1:-\nChoose the appropriate weight and set the seat so that the knees are bent just over right angles.\n
+Step 2:-\nPosition feet about shoulder width apart.\n
+Step 3:-\nTry to push through your heels, keeping the knees lined up over the toes.\n
+Step 4:-\nExtend the legs until nearly straight, avoiding locking the knees.\n
+Step 5:-\nLower the weight slowly back towards the starting position.\n
+Step 6:-\nRepeat for the number of reps required.\n
+
+
+    </string>
+
+    <string name="legsexcercise3">Step 1:-Setup:\nPosition yourself face down on the reverse hyperextension machine. Your hips should be at the edge of the pad, allowing your legs to hang freely.\n
+Hold onto the handles or the edge of the machine to stabilize your upper body.\n\n
+Step 2:-Starting Position:\n
+
+Let your legs hang straight down below you. Your body should be in a straight line from head to toe, with a slight bend in your knees.\n\n
+Step 3:-Lifting Phase:\n
+
+Engage your glutes and hamstrings to lift your legs. Keep your core tight to prevent excessive arching of your lower back.\n
+Lift your legs until they are in line with your body or slightly above, forming a straight line from your shoulders to your heels.\n\n
+Step 4:-Squeezing:\n
+
+At the top of the movement, squeeze your glutes and hold for a brief moment. Focus on maintaining control and avoiding any jerky movements.\n\n
+Step 5:-Lowering Phase:\n
+
+Slowly lower your legs back to the starting position in a controlled manner. Ensure that your legs do not drop too quickly, and keep the tension in your glutes and hamstrings throughout the movement.\n\n
+Step 6:-Repetitions:\n
+
+Repeat the movement for the desired number of repetitions. Typically, 10-15 repetitions for 3-4 sets are effective, depending on your fitness level and goals.\n\n
+
+
+    </string>
+
+    <string name="legsexcercise4">Step 1:-\nSet up the leg extension machine so the pad is at the top of your lower legs at the ankles. Your knees are at 90 degrees. Select a weight that will give you a moderate load for 10 to 12 repetitions.\n\n
+Step 2:-\nPlace your hands on the hand bars.\n\n
+Step 3:-\nLift the weight while exhaling until your legs are almost straight. Do not lock your knees. Keep your back against the backrest and do not arch your back.\n\n
+Step 4:-\nExhale and lower the weight back to starting position.\n\n
+Step 5:-\nDo three sets of eight to 12 repetitions.\n\n
+
+        
+    </string>
+
+    <string name="legsexcercise5">
+Step 1:-\nStand up straight with your shoulders back. Hold one dumbbell in each hand and keep your arms at your sides, keeping your torso upright.\n\n
+Step 2:-\nKeep your arms relaxed at your sides throughout the whole movement. Step forward with your right leg, putting your weight into your heel.\n\n
+Step 3:-\nAs your right foot strikes the floor and stabilizes, bend the right knee, lowering down parallel to the floor into a lunge position.\n\n
+Step 4:-\nWithout moving the right leg, move your left foot forward, repeating the same movement on the left leg. Pause as your left leg is parallel to the floor in a lunge position.\n\n
+Step 5:-\nRepeat this movement, “walking” forward as you lunge, alternating legs.\n\n
+Step 6:-\nDo 10 to 12 reps on each leg. Perform 2 to 3 sets.\n\n
+
+    </string>
+
+    <string name="legsexcercise6">
+        Step 1:-\nSit on the edge of your chair or bench, feet facing forward slightly less than hip-width apart.\n\n
+Step 2:-\nRest a dumbbell on each thigh, just above the knee. \n\n
+Step 3:-\nSlowly raise your heels off the floor until you are on your tiptoes.\n\n
+Step 4:-\nPause before reversing back to starting position in a controlled movement.\n\n
+
+
+    </string>
+
+    <string name="biscepexcercise1">Step 1:-\nStand up straight, with your feet shoulder-width apart and your hands holding the barbell in an underhand grip. Your hands should be positioned just outside your hips.\n\n
+Step 2:-\nCurl the bar towards your chest, engaging your core and keeping your chest up and shoulders back. You need to keep your elbows tight so that the biceps can be fully engaged. We find gripping the bar hard helps keep things nice and tight.\n\n
+Step 3:-\nFeel for your bicep contraction, and hold it for a moment. We’re working our biceps here, so ensure you actually feel the contraction and pause in that spot before you lower.\n\n
+Step 4:-\nLower the bar, in a controlled manner forms the final part of the exercise. Aim to lower the bar in between 2 and 4 seconds.\n\n
+Step 5:-\nRepeat, for as many reps feel comfortable.\n\n
+
+
+    </string>
+    <string name="biscepexcercise2">Step 1: \nGrab a pair of dumbbells and sit down on the end of a flat bench. Feet flat on the floor and close together.\n\n
+Step 2: \nLet arms hang down along sides at arm length with palms facing each other.\n\n
+Step 3: \nBegin exercise by curling dumbbells up to your shoulders. Don\'t let your upper arms move. Keep elbows tucked into sides and raise dumbbells as close to shoulders as possible.\n\n
+Step 4: \nPause, then lower weight back down until your arms are completely straight. Repeat as necessary.\n\n
+
+    </string>
+    <string name="biscepexcercise3">Step 1:-\nAdjust your bench to a 45- to 60-degree incline. \n\n
+
+Step 2:-\nSit with your back flat against the bench, your abs tight, and the weights by your sides (one in each hand).\n\n
+Step 3:-\nWith your palms facing up, curl the dumbbells until they reach your shoulders. Keep squeezing your biceps at the top of the movement for a full contraction. When they’re flexed, you’ll be able to feel the motion in your biceps brachii specifically.\n\n
+Step 4:-\nSlowly lower the dumbbells back to the starting position. Key word here is slowly. If you release the weights too quickly, you could strain or injure your muscles.\n\n
+Step 5:-\nDo 3 sets of 15 reps.\n\n
+
+
+    </string>
+    <string name="biscepexcercise4">Step 1:-\nSit on a bench, with a dumbbell between your legs.\n\n
+
+Step 2:-\nGrab the dumbbell with one hand, then place your upper arm (your triceps muscle) against your thigh. Your goal should be to keep your arm perpendicular to the ground throughout the whole movement.\n\n
+
+Step 3:-\nTighten your core and engage your shoulder blades to create tension and reinforce posture.\n\n
+
+Step 4:-\nMake a fist with your off hand and extend your non-working arm out to the side. This allows you to use your core to balance and remove any leverage that would take away from biceps engagement.\n\n
+
+Step 5:-\nCurl the weight up with control, keeping the wrist in a neutral position. Emphasize the squeeze at the top of the rep; avoid any backwards lean or shoulder movement, keeping the focus on the biceps.\n\n
+
+Step 6:-\nPerform 3 sets of 8 to 12 reps per arm, or 3 minutes alternating 30 seconds of work per arm.\n\n
+
+
+    </string>
+    <string name="biscepexcercise5">Step 1:-\nStand with your arms shoulder-width apart and reach up to grab the overhead bar. Make sure to use an underhand grip — so your palms face toward you. \n\n
+Step 2:-\nBrace your abdominal muscles to create tension throughout your body — this increases your stability as you move.\n\n
+Step 3:-\nPull yourself up from your stationary position until your chin is above the bar. Your legs should remain as still as possible and your neck should be in a neutral position, with your head facing forward. \n\n
+Step 4:-\nPause for a moment at the top. \n\n
+Step 5:-\nThen slowly lower yourself back down. Force yourself to move slowly during this portion to maximize your gains from this exercise. \n\n
+
+
+    </string>
+    <string name="biscepexcercise6">
+        Step 1: \nPlace a barbell on the preacher bench barbell holder and sit on the preacher bench.\n\n
+Step 2: \nPlace your torso against the preacher bench padding and rest your arms against the arm padding.\n\n
+Step 3: \nWith your palms facing up, grasp the barbell with arms no wider than shoulder width apart. This is your starting position.\n\n
+Step 4: \nExhale as your raise the barbell to your shoulders.\n\n
+Step 5: \nHold the contraction for a moment as you squeeze the biceps.\n\n
+Step 6: \nInhale as you lower the barbell back toward the starting position.\n\n
+Step 7: \nRepeat for a complete set.\n\n
+    </string>
+    <string name="triscepexcercise1">Step 1:-\nTo begin, stand up with a dumbbell held in one hand. Your feet should be about shoulder width apart from each other. Now fully extend the arm with the dumbbell over your head. Tip: The small finger of your hand should be facing the ceiling and the palm of your hand should be facing forward. The dumbbell should be above your head.\n\n
+Step 2:-\nThis will be your starting position.\n\n
+Step 3:-\nKeeping your upper arm close to your head (elbows in) and perpendicular to the floor, lower the resistance in a semicircular motion behind your head until your forearm touch your bicep. Tip: The upper arm should remain stationary and only the forearm should move. Breathe in as you perform this step.\n\n
+Step 4:-\nGo back to the starting position by using the triceps to raise the dumbbell. Breathe out as you perform this step.\n\n
+Step 5:-\nRepeat for the recommended amount of repetitions.\n\n
+Step 6:-\nSwitch arms and repeat the exercise.\n\n
+
+    </string>
+    <string name="triscepexcercise2">
+        Step 1:-\nHolding a single dumbbell with both hands, plant both feet on the floor shoulder-width apart. Extend your arms above your head, ensuring that they are on either side of your ears. This is your starting position.\n\n
+Step 2:-\nInhale. While keeping your shoulders as still as possible, bend your elbows to lower the dumbbell behind your head.\n\n
+Step 3:-\nExhale. Using your triceps, extend your elbows to return to the starting position, ensuring that your shoulders, elbows and wrists remain in line with one another at all times. Repeat for the specified number of repetitions.\n\n
+    </string>
+    <string name="triscepexcercise3">
+        Step 1: \nFeet shoulder width apart, face a high pulley machine enabled with a rope attachment. Grasp the ends of the rope so that your palms are facing inward and your elbows are by your waist. This is your starting position.\n\n
+Step 2: \nKeeping your body stationary, exhale as you lower the rope by completely extending your arms until they are straight down by your sides.\n\n
+Step 3: \nHold for a moment and then inhale as you slowly return the rope to the starting position.\n\n
+Step 4: \nRepeat for a complete set.\n\n
+    </string>
+
+    <string name="triscepexcercise4">
+        Step 1:-\nStand one step away from the cable pulley, and grip a bar about shoulder-width apart.\n\n
+Step 2:-\nPull the handle down until your upper arms are perpendicular to the floor. This is the starting position.\n\n
+Step 3:-\nPush the handle down until your arms are fully extended.\n\n
+Step 4:-\nWith control, let the handle up again.\n\n
+
+    </string>
+
+    <string name="triscepexcercise5">
+        Step 1:-\nGrab a set of dumbbells, bring your torso forward and bend your knees slightly.\n\n
+Step 2:-\nBring your elbows up, so that your upper arms are parallel to the floor, and kick back until your arms are fully extended.\n\n
+Step 3:-\nSlowly lower the weights to the starting position.\n\n
+Step 4:-\nRepeat.\n\n
+
+    </string>
+
+    <string name="triscepexcercise6">
+        Step 1:-\nSit down on a bench, hands next to your thighs. (You can also perform a bench dip off a stair or other elevated surface; the same steps apply.)\n\n
+Step 2:-\nWalk your feet out and extend your legs, lifting your bottom off the bench and holding there with extended arms.\n\n
+Step 3:-\nHinging at the elbow, lower your body down as far as you can go, or until your arms form a 90-degree angle.\n\n
+Step 4:-\nPush up through your palms back to start.\n\n
+
+    </string>
+    <string name="shoulderexcercise1">
+        Step 1:-\nGrab two dumbbells and sit on an incline bench. Make sure the back of the bench is set at a 90-degree angle.\n\n
+Step 2:-\nOnce you’re seated, rest one dumbbell on each thigh. Sit with your lower back firmly against the back of the bench. Keep your shoulders and back as straight as possible.\n\n
+Step 3:-\nRaise the dumbbells from your thighs and bring them to shoulder height. If you have heavy dumbbells, raise your thighs one at a time to help lift the dumbbells. Raising a heavy dumbbell with only your arm could cause injury.\n\n
+Step 4:-\nWith the dumbbells at shoulder height, rotate your palms so that they face forward. If you prefer, you can also complete a dumbbell press with your palms facing your body. Make sure your forearms are perpendicular to the ground.\n\n
+Step 5:-\nBegin to press the dumbbells above your head until your arms fully extend. Hold the weight above your head for a moment, and then lower the dumbbells back to shoulder height.\n\n
+Step 6:-\nComplete the desired number of reps. If you’re a beginner, start with 1 set of 8–10 reps.\n\n
+
+    </string>
+    <string name="shoulderexcercise2">
+        Step 1:-\nGrab a set of dumbbells and stand with your legs shoulder-width apart. \n\n
+Step 2:-\nRaise the dumbbells to shoulder height with your palms facing your body. Keep your back straight and bend your knees slightly.\n\n
+Step 3:-\nSlowly push the dumbbells above your head while rotating your wrists 180 degrees (so your palms face away from your body). \n\n
+Step 4:-\nRaise the weights until your arms are almost fully extended. Avoid pausing at the top of the movement.\n\n
+Step 5:-\nSlowly bring the dumbbells back down to the starting position while twisting your wrists until your palms face you again.\n\n
+Step 6:-\nAim for two or three sets of 8 to 12 repetitions (reps). If 12 reps are easy for you, use heavier dumbbells.\n\n
+
+
+    </string>
+
+    <string name="shoulderexcercise3">
+        Step 1:-\nStand with your feet around shoulder-width apart, holding a dumbbell in each hand by your sides, palms facing inwards.\n\n
+Step 2:-\nEngage your core and squeeze your glutes to provide a strong base, and then raise your arms out to the sides, stopping when your arms are parallel with the floor.\n\n
+Step 3:-\nAt the top of the exercise, your arms should be slightly in front of your torso, and your elbows should have a soft bend.\n\n
+Step 4:-\nPause before slowly lowering back to starting position.\n\n
+
+    </string>
+    <string name="shoulderexcercise4">
+       Step 1:- \nSit on the machine, facing the pad. You’ll appear to be sitting on it backward, but for this exercise, you’re positioned just right. Adjust the seat height so the handles in front of you are level with your shoulders.\n\n
+Step 2:- \nHolding the handles, either with palms down or palms facing each other, press your arms back, keeping them straight or slightly bent.\n\n
+Step 3:- \nSqueeze your shoulder blades together, like a set of elevator doors.\n\n
+Step 4:- \nHold here for 2 seconds, then return to the starting position with your hands in front of you. Do this slowly and with control.\n\n
+Step 5:- \nDo 10–12 reps.\n\n
+    </string>
+    <string name="shoulderexcercise5">
+        Step 1:-\nHolding one dumbbell in each hand with an overhand grip (palms facing towards your body) in front of your legs, plant both feet on the floor shoulder-width apart. This is your starting position.\n\n
+Step 2:-\nInhale. Exhale. While maintaining a slight bend in your elbow, gently raise the left dumbbell in front of you, up to chin height.\n\n
+Step 3:-\nInhale. Slowly lower the dumbbell to return to the starting position.\n\n
+Step 4:-\nExhale. While maintaining a slight bend in your elbow, gently raise the right dumbbell in front of you, up to chin height.\n\n
+Step 5:-\nInhale. Slowly lower the dumbbell to return to the starting position. Continue alternating between left and right for the specified number of repetitions.\n\n</string>
+
+    <string name="shoulderexcercise6">
+Step 1:-\n Stand up straight with a dumbbell in each hand. Your palms should be facing your torso, with your arms extended to your sides.\n\n
+Step 2:-\n Raise the dumbbells by lifting your shoulders as high as possible, exhaling as you do so. Hold the contraction at the top for a second.\n\n
+Step 3:-\n Bring the dumbbells back to the starting position.\n\n
+Step 4:-\n Repeat for the number of reps in your set.\n\n
+</string>
+    <string name="app_name1">Calorie Counters</string>
+    <string name="app_name2">CalorieCalculator</string>
+    <string-array name="activity_levels">
+        <item>Sedentary</item>
+        <item>Lightly active</item>
+        <item>Moderately active</item>
+        <item>Very active</item>
+        <item>Super active</item>
+    </string-array>
+
+</resources>
